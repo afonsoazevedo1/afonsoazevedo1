@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoazevedo&layout=compact&hide_border=true&title_color=F4F3EE&text_color=F4F3EE&bg_color=0D1117" />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="50" alt="android logo"  />
   <img width="15" />
