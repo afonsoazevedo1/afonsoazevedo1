@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a dedicated mobile developer constantly striving to enhance my expertise in Kotlin and Flutter. My goal is to design and create stable, functional, and visually appealing applications that meet user needs and industry standards.<br><br>I actively incorporate the latest technical knowledge and methodologies to ensure my projects are not only current but also effective. With a focus on continuous learning, I embrace new challenges that allow me to grow and contribute to innovative solutions in the mobile development landscape.</p>
+<p align="left">I am a dedicated mobile developer constantly striving to enhance my expertise in Kotlin. My goal is to design and create stable, functional, and visually appealing applications that meet user needs and industry standards.<br><br>I actively incorporate the latest technical knowledge and methodologies to ensure my projects are not only current but also effective. With a focus on continuous learning, I embrace new challenges that allow me to grow and contribute to innovative solutions in the mobile development landscape.</p>
 
 ###
 
@@ -16,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="50" alt="android logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
   <img width="15" />
