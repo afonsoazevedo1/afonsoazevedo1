@@ -41,8 +41,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <h4>Visitors</h4>
-  <img src="https://profile-counter.glitch.me/afonsoazevedo/count.svg" alt="Visitor Count" />
-</div>
